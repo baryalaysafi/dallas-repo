@@ -18,3 +18,5 @@ Contact Me
 I am always open to new opportunities and collaborations. If you are interested in working with me or have any questions about my projects, feel free to reach out. You can contact me via email or connect with me on LinkedIn.
 Conclusion
 Thank you for visiting my GitHub portfolio. I hope you enjoy exploring my projects and getting a glimpse of my skills and passion for web development. Each project is a reflection of my dedication to creating high-quality, user-centric web applications. I look forward to the opportunity to bring my expertise to your next project.
+<h1>SCREENSHOTS</h1>
+<img src="Screenshot 2024-07-29 140622.png">
