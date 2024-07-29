@@ -21,3 +21,8 @@ Thank you for visiting my GitHub portfolio. I hope you enjoy exploring my projec
 <h1>SCREENSHOTS</h1>
 <img src="Screenshot 2024-07-29 140622.png">
 <img src='Screenshot 2024-07-29 140642.png'>
+
+<img src='Screenshot 2024-07-29 140659.png'>
+<img src='Screenshot 2024-07-29 140728.png'>
+<img src='Screenshot 2024-07-29 140742.png'>
+<img src='Screenshot 2024-07-29 140757.png'>
