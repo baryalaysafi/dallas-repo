@@ -20,3 +20,4 @@ Conclusion
 Thank you for visiting my GitHub portfolio. I hope you enjoy exploring my projects and getting a glimpse of my skills and passion for web development. Each project is a reflection of my dedication to creating high-quality, user-centric web applications. I look forward to the opportunity to bring my expertise to your next project.
 <h1>SCREENSHOTS</h1>
 <img src="Screenshot 2024-07-29 140622.png">
+<img src='Screenshot 2024-07-29 140642.png'>
